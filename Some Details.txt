@@ -1,0 +1,2 @@
+Int this code we simply just created an additional variable named - size, and just used it simply to 
+find if the queue is empty or not (Rather making it complex by check rear+1 % arraylengh == front). 
